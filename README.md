@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
-- 💬 Ask me about **Android development using Java and XML**
+- 💬 Ask me about **android development using Java and XML**
 
 - 📫 How to reach me **chatterjeeanubrata386@gmail.com**
 
