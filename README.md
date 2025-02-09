@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/anubrata2000" target="blank"><img src="https://img.shields.io/twitter/follow/anubrata2000?logo=twitter&style=for-the-badge" alt="anubrata2000" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and Kotlin**
+- 🌱 I’m currently learning **Node Js and Express js**
 
-- 💬 Ask me about **android development using Java and XML**
+- 💬 Ask me about **Backend Development, PHP, Laravel, Codeigniter, Bootstrap, Tailwind and Android development using Java and XML**
 
 - 📫 How to reach me **chatterjeeanubrata386@gmail.com**
 
-- ⚡ Fun fact **I may look innocent but I am not.**
+- ⚡ Fun fact **Don't judge me by my cover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
